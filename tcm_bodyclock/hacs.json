@@ -1,0 +1,9 @@
+{
+    "name": "中医养生表",
+    "domains": ["tcm_bodyclock"],
+    "render_readme": true,
+    "zip_release": true,
+    "filename": "tcm_bodyclock.zip",
+    "content_in_root": false,
+    "persistent_directory": "custom_components/tcm_bodyclock"
+  }
