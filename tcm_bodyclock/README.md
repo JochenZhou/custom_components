@@ -1,10 +1,9 @@
-以下是一个适合 **中医养生表** 自定义组件的 `README.md` 文件模板。你可以根据实际需求进一步修改和完善。
 
 ---
 
 # 中医养生表 - Home Assistant 自定义组件
 
-这是一个为 Home Assistant 设计的中医养生表自定义组件。它基于中医十二时辰养生理论，实时显示当前时辰、经络值班、养生重点、推荐事项和注意事项，帮助用户更好地遵循自然规律，调理身体。
+这是一个借助**deepseek**为 Home Assistant 设计的中医养生表自定义组件。它基于中医十二时辰养生理论，实时显示当前时辰、经络值班、养生重点、推荐事项和注意事项，帮助用户更好地遵循自然规律，调理身体。
 
 ---
 
@@ -144,15 +143,9 @@ custom_components/
 
 - 感谢中医养生理论的智慧。
 - 感谢 Home Assistant 社区的支持。
+- 感谢 deepseek的支持。
 
 ---
 
-## 支持与反馈
-
-如有问题或建议，请通过以下方式联系：
-- GitHub Issues: [提交 Issue](https://github.com/your-repo/tcm_bodyclock/issues)
-- 邮箱: your-email@example.com
-
----
 
 **祝您养生愉快，健康常伴！** 🌿
