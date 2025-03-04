@@ -2,7 +2,7 @@
   "domain": "tcm_bodyclock",
   "name": "中医养生表",
   "version": "1.0",
-  "documentation": "https://github.com/JochenZhou/tcm_bodyclock",
+  "documentation": "https://github.com/JochenZhou/custom_components/tree/main/tcm_bodyclock",
   "dependencies": [],
   "codeowners": [
     "@JochenZhou"
